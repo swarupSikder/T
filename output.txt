@@ -1,1 +1,1 @@
-Patro paiya geci
+sum = 22
