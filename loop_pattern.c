@@ -35,7 +35,7 @@ int main()
 
     for(;;){
         //condition
-        if(a==0 || b==20){
+        if(a==0 || b==100){
             break;
         }
 
